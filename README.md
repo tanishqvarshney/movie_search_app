@@ -1,1 +1,1 @@
-# movie_search_app
+# 🎬 Movie Search Application
