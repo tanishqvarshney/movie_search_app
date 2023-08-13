@@ -9,7 +9,7 @@ Movie Search App (FrontEnd and BackEnd) created with Flutter(Dart).
 
 # Screenshots
 
-<img src = "https://github.com/tanishqvarshney/movie_search_app/assets/72263468/af610fb1-037d-408d-a804-868029a92409" width = "410" height = "800">  &emsp;&emsp;&emsp;&emsp;  <img src = "https://github.com/tanishqvarshney/movie_search_app/assets/72263468/01c78a9c-dc82-4a3b-8810-21a0818493fa" width = "410" height = "800">
+<img src = "https://github.com/tanishqvarshney/movie_search_app/assets/72263468/af610fb1-037d-408d-a804-868029a92409" width = "380" height = "690">  &emsp;&emsp;&emsp;&emsp;  <img src = "https://github.com/tanishqvarshney/movie_search_app/assets/72263468/01c78a9c-dc82-4a3b-8810-21a0818493fa" width = "380" height = "690">
 
 
 
